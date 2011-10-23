@@ -1,4 +1,5 @@
 #!/bin/sh
+# Licence : GPL - http://www.fsf.org/licenses/gpl.txt
 
 warn=18000
 crit=20000
